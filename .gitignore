@@ -1,0 +1,39 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Android Studio / IntelliJ specific
+.idea/
+*.iml
+.gradle/
+
+# Build output
+/build/
+
+# Local properties
+local.properties
+
+# Test folder
+/androidTest/
+/test/
+
+# MacOS specific
+.DS_Store
+
+# Escludi i test locali
+/com.example.moderncalculator/test/
+# Escludi i test Android
+/com.example.moderncalculator/androidTest/
+
