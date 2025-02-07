@@ -37,3 +37,23 @@ local.properties
 # Escludi i test Android
 /com.example.moderncalculator/androidTest/
 
+# Android Studio / IntelliJ specific
+.idea/
+*.iml
+
+# Gradle files
+.gradle/
+build/
+
+# Local properties
+local.properties
+
+# Operating System files
+.DS_Store
+
+# Test folders
+/androidTest/
+/test/
+
+
+
