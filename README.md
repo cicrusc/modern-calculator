@@ -77,5 +77,3 @@ Feel free to fork the repository and contribute by submitting pull requests. All
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
-
-```
