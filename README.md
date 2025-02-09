@@ -28,9 +28,8 @@ A modern, sleek, and user-friendly calculator app for Android, built with **Jetp
 
 ## Screenshots
 
-| <img src="https://github.com/user-attachments/assets/b7abe870-a1c8-4745-89c6-fa325aa520a2" alt="Calculator set to 0 by default" width="200" /> | <img src="https://github.com/user-attachments/assets/79990686-99ad-4c1f-ab6f-ed5036331771" alt="Example calculation: 6x6=36" width="200" /> | <img src="https://github.com/user-attachments/assets/44d30954-af46-4e43-8a6c-7a179d14ebf2" alt="Example calculation: 6x6+6-6=36" width="200" /> |
+| <img src="https://github.com/user-attachments/assets/b7abe870-a1c8-4745-89c6-fa325aa520a2" alt="Calculator set to 0 by default" width="200" /> | <img src="https://github.com/user-attachments/assets/79990686-99ad-4c1f-ab6f-ed5036331771" alt="Example calculation" width="200" /> | <img src="https://github.com/user-attachments/assets/44d30954-af46-4e43-8a6c-7a179d14ebf2" alt="Example expresssion" width="200" /> |
 |:---:|:---:|:---:|
-| *Calculator set to 0 by default.* | *Example calculation: 6x6=36.* | *Example calculation: 6x6+6-6=36.* |
 
 ## Setup
 
